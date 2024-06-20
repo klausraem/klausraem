@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @klausraem
 - 👀 I’m interested in coding and Web Development.
-- 🌱 I’m currently learning HTML, CSS and JavaScript.
+- 🌱 I’m currently learning HTML, CSS and JavaScript and python.
 - 💞️ I’m looking to collaborate on everything that I can.
 - 📫 Yoy can reach me emailing me klausraem@pm.me.
 
